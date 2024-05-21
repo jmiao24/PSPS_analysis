@@ -1,7 +1,7 @@
 # PSPS experiments
 
 ## Simulations
-All simulations are done using `R` with version 4.2.1 (2022-06-23). The required pacakges are `POPInf`, `IPD`, `quantreg`, `doParallel`, `data.table`, `knockoff`, `AER`, `MASS`, `sandwich`, and `lmtest`.
+All simulations are done using `R` with version 4.2.1 (2022-06-23). The required packages are `POPInf`, `IPD`, `quantreg`, `doParallel`, `data.table`, `knockoff`, `AER`, `MASS`, `sandwich`, and `lmtest`.
 
 ### Tasks that have been implemented for ML-assisted inference
 * `./old_task/Fun.R`: Functions for simulation and PSPS protocol
